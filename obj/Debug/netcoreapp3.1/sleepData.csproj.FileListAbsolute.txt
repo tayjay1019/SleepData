@@ -1,0 +1,11 @@
+C:\Users\tayja\Desktop\sleepData\bin\Debug\netcoreapp3.1\sleepData.exe
+C:\Users\tayja\Desktop\sleepData\bin\Debug\netcoreapp3.1\sleepData.deps.json
+C:\Users\tayja\Desktop\sleepData\bin\Debug\netcoreapp3.1\sleepData.runtimeconfig.json
+C:\Users\tayja\Desktop\sleepData\bin\Debug\netcoreapp3.1\sleepData.runtimeconfig.dev.json
+C:\Users\tayja\Desktop\sleepData\bin\Debug\netcoreapp3.1\sleepData.dll
+C:\Users\tayja\Desktop\sleepData\bin\Debug\netcoreapp3.1\sleepData.pdb
+C:\Users\tayja\Desktop\sleepData\obj\Debug\netcoreapp3.1\sleepData.csprojAssemblyReference.cache
+C:\Users\tayja\Desktop\sleepData\obj\Debug\netcoreapp3.1\sleepData.AssemblyInfoInputs.cache
+C:\Users\tayja\Desktop\sleepData\obj\Debug\netcoreapp3.1\sleepData.AssemblyInfo.cs
+C:\Users\tayja\Desktop\sleepData\obj\Debug\netcoreapp3.1\sleepData.dll
+C:\Users\tayja\Desktop\sleepData\obj\Debug\netcoreapp3.1\sleepData.pdb
